@@ -13,7 +13,7 @@ The app is a simple backend to accept team entries for a fantasy cricket app (si
 **Server:** Node.js, Express.js, Mongodb, Mongoose (for ORM), Postman (For documentation)
 
 **Deployment:** [Deployed to Render](https://fantasy-cricket.onrender.com)
-**Docs:** [Postgres](https://documenter.getpostman.com/view/23951730/2sA3JJAP19)
+**Docs:** [Postman](https://documenter.getpostman.com/view/23951730/2sA3JJAP19)
 
 ## Run Locally
 
